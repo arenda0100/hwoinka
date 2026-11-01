@@ -386,8 +386,7 @@ body {
     background: var(--bg-dark);
     color: var(--text-light);
 }
-.section-header.
-light h2 { color: var(--text-light); }
+.section-header.light h2 { color: var(--text-light); }
 .price-cards {
     display: flex;
     justify-content: center;
